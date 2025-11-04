@@ -1,0 +1,19 @@
+
+@model OnlineMovieTicketBookingSystem.Models.Booking
+@{
+    ViewData["Title"] = "Book Ticket";
+}
+<h2>Book Ticket for @ViewBag.MovieTitle</h2>
+
+<form method="post">
+    <input asp-for="MovieId" type="hidden" />
+    <div class="mb-3">
+        <label asp-for="ShowTime" class="form-label">Show Time</label>
+        <input asp-for="ShowTime" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="SeatsBooked" class="form-label">Seats</label>
+        <input asp-for="SeatsBooked" type="number" min="1" class="form-control" />
+    </div>
+    <button class="btn btn-primary">Confirm Booking</button>
+</form>
