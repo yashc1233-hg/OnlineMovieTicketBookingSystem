@@ -1,0 +1,23 @@
+
+Poster URLs - save these files into wwwroot/images/movies/ with the given filenames
+
+jawan.jpg https://upload.wikimedia.org/wikipedia/en/3/3f/Jawan_film_poster.jpg
+pathaan.jpg https://upload.wikimedia.org/wikipedia/en/6/6a/Pathaan_film_poster.jpg
+dunki.jpg https://upload.wikimedia.org/wikipedia/en/9/9b/Dunki_film_poster.jpg
+gadar2.jpg https://upload.wikimedia.org/wikipedia/en/4/43/Gadar_2_film_poster.jpg
+brahmastra.jpg https://upload.wikimedia.org/wikipedia/en/1/1f/Brahmastra_Teaser_poster.jpg
+rocky_rani.jpg https://upload.wikimedia.org/wikipedia/en/2/23/Rocky_Aur_Rani_Kii_Prem_Kahani_poster.jpg
+bhool_bhulaiyaa2.jpg https://upload.wikimedia.org/wikipedia/en/f/f5/Bhool_Bhulaiyaa_2_poster.jpg
+animal.jpg https://upload.wikimedia.org/wikipedia/en/0/0b/Animal_2023_film_poster.jpg
+pushpa2.jpg https://upload.wikimedia.org/wikipedia/en/3/35/Pushpa_2_The_Rule.jpg
+kantara.jpg https://upload.wikimedia.org/wikipedia/en/f/f4/Kantara_poster.jpg
+rrr.jpg https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg
+kgf2.jpg https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg
+vikram.jpg https://upload.wikimedia.org/wikipedia/en/b/bd/Vikram_2022_poster.jpg
+jailer.jpg https://upload.wikimedia.org/wikipedia/en/f/fb/Jailer_film_poster.jpg
+salaar.jpg https://upload.wikimedia.org/wikipedia/en/0/0e/Salaar_poster.jpg
+leo.jpg https://upload.wikimedia.org/wikipedia/en/3/35/Leo_2023_poster.jpg
+devara.jpg https://upload.wikimedia.org/wikipedia/en/7/7c/Devara_Part_1.jpg
+kalki2898ad.jpg https://upload.wikimedia.org/wikipedia/en/e/ef/Kalki_2898_AD.jpg
+thama.jpg <add your thama poster file>
+ek_deewane.jpg <add your ek deewane poster file>
